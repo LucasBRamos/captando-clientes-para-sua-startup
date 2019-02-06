@@ -1,0 +1,35 @@
+{
+  "name": "captando-clientes-para-sua-startup",
+  "version": "1.0.0",
+  "description": "Palestra realizada no dia 07/02/2019 para o GDG Porto Velho e o Grupo Tambaky Valley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LucasBRamos/captando-clientes-para-sua-startup.git"
+  },
+  "keywords": [
+    "Startup",
+    "Porto",
+    "Velho",
+    "GDG",
+    "Palestra"
+  ],
+  "author": "Lucas Bernieri Ramos <lucasramos53@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasBRamos/captando-clientes-para-sua-startup/issues"
+  },
+  "homepage": "https://github.com/LucasBRamos/captando-clientes-para-sua-startup#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "laravel-elixir": "^6.0.0-18",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "reveal.js": "^3.5.0"
+  }
+}
